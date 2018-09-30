@@ -1,0 +1,4 @@
+Extracting Titanic Dataset
+
+1.Navigate to .env file and store your Kaggle username and password
+2.Open Jupyter noteook and install dot env using pip command so that you can use .env file
